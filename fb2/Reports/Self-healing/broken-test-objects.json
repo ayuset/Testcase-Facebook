@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_Facebook - Masuk atau Daftar/button_Masuk",
+      "brokenLocator": "//button[@id\u003d\u0027u_0_5_op\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//button",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_Facebook - Masuk atau Daftar/button_Masuk_position.png"
+    }
+  ]
+}
